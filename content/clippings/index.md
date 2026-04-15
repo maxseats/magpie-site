@@ -1,0 +1,30 @@
+---
+title: 클리핑 인덱스
+type: overview
+updated: 2026-04-15
+tags: [clippings, index]
+---
+
+# 클리핑 인덱스
+
+> 텔레그램 클리퍼 봇을 통해 수집된 모든 자료. 작성자 메타데이터 포함.
+
+## 2026-04 (15건)
+
+| 날짜 | 제목 | 카테고리 | 태그 | 올린이 |
+|------|------|---------|------|--------|
+| 2026-04-15 | [[테스트] Magpie 첫 클립](2026-04/테스트-Magpie-첫-클립) | 기타 | test, magpie | maxseats |
+| 2026-04-15 | [Threads의 AI Coffee Chat(@aicoffeechat)님](2026-04/Threads의-AI-Coffee-Chat-aicoffeechat-님) | 도구 | MCP, AI에이전트, K-skill, 한국서비스, KTX, 카카오톡 | web-clipper |
+| 2026-04-15 | [Threads의 인공지능아카데미 AI Tutor(@koreaaiacademy)님](2026-04/Threads의-인공지능아카데미-AI-Tutor-koreaaiacademy-님) | 도구 | Membase, 제2의뇌, LLM-Wiki, PKM, Obsidian, 지식관리 | web-clipper |
+| 2026-04-15 | [Setting up your own digital garden with Jekyll — M](2026-04/Setting-up-your-own-digital-garden-with-Jekyll-Maxime-Vailla) | 기술 | Digital Garden, Jekyll, PKM, Note-taking, Static Site | web-clipper |
+| 2026-04-15 | [LLM Wiki를 업그레이드한 Graphify 개념 + 실습 가이드](2026-04/LLM-Wiki를-업그레이드한-Graphify-개념-실습-가이드) | 영상 | Graphify, LLM-Wiki, Knowledge Graph, PKM | web-clipper |
+| 2026-04-15 | [Harness Engineering: leveraging Codex in an agent-](2026-04/Harness-Engineering-leveraging-Codex-in-an-agent-first-world) | 기술 | Codex, AI-agents, software-engineering, OpenAI, agentic-coding | maxseats |
+| 2026-04-15 | [Harness Engineering: Leveraging Codex in an Agent-](2026-04/Harness-Engineering-Leveraging-Codex-in-an-Agent-First-World-151158) | 기술 | Codex, AI에이전트, 소프트웨어엔지니어링, OpenAI, 에이전트루프, 개발방법론 | maxseats |
+| 2026-04-15 | [Harness Engineering | OpenAI](2026-04/Harness-Engineering-OpenAI) | 기술 | OpenAI, engineering, harness, AI infrastructure | maxseats |
+| 2026-04-15 | [https://openai.com/index/harness-engineering/](2026-04/https-openai-com-index-harness-engineering) | 기술 | OpenAI, Engineering, Infrastructure, Harness | maxseats |
+| 2026-04-15 | [https://openai.com/index/harness-engineering/](2026-04/https-openai-com-index-harness-engineering-155726) | 기술 | OpenAI, 엔지니어링, AI 인프라, 평가 시스템 | maxseats |
+| 2026-04-15 | [Threads의 April | 프로덕트 매니저, 기획자(@april__pm)님](2026-04/Threads의-April-프로덕트-매니저-기획자-april__pm-님) | 메모 | PM, 프로덕트, 기획, Threads | web-clipper |
+| 2026-04-15 | [Telegram 봇 시작 (/start)](2026-04/Telegram-봇-시작-start) | 메모 | telegram, bot | maxseats |
+| 2026-04-15 | [옵시디언으로 블로그 작성하기](2026-04/옵시디언으로-블로그-작성하기) | 기술 | Obsidian, 블로그, 제텔카스텐, PKM, Jekyll, 글쓰기 | web-clipper |
+| 2026-04-15 | [https://openai.com/index/harness-engineering/](2026-04/https-openai-com-index-harness-engineering-155427) | 기술 | OpenAI, Harness, Engineering, AI평가, 인프라 | maxseats |
+| 2026-04-15 | [OpenAI Harness Engineering](2026-04/OpenAI-Harness-Engineering) | 기술 | OpenAI, 엔지니어링, 평가 프레임워크, AI 인프라 | maxseats |
