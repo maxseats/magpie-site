@@ -28,7 +28,9 @@ updated: 2026-04-16
 
 | Topic | Sources | Updated |
 |-------|---------|---------|
+| [ML-모델선택](ML-모델선택) | 1 | 2026-04-16 |
 | [Product-Management](Product-Management) | 1 | 2026-04-15 |
+| [반도체](반도체) | 1 | 2026-04-16 |
 
 ## 영상
 

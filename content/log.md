@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-04-16] clip | 메모 by web-clipper | Threads의 유로푸의 반도체취업(@semicongram)님
+- wiki: `clippings/2026-04/Threads의-유로푸의-반도체취업-semicongram-님.md`
+- Notion: https://www.notion.so/3440c76f6ccb814baa31df5bebb74d21
+
 ## [2026-04-16] clip | 기술 by web-clipper | Agent Harness Guide v1.0 - 프롬프트 엔지니어링의 실천
 - wiki: `clippings/2026-04/Agent-Harness-Guide-v1-0-프롬프트-엔지니어링의-실천.md`
 - Notion: https://www.notion.so/3440c76f6ccb816695bee1902c35b474
