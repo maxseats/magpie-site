@@ -4,7 +4,7 @@ type: topic
 category: 도구
 created: 2026-04-15
 updated: 2026-04-16
-sources: 2
+sources: 3
 tags: [AI-Agents]
 ---
 # AI-Agents
@@ -23,6 +23,11 @@ tags: [AI-Agents]
 ### 2026-04-16: Agent Harness Guide v1.0 - 프롬프트 엔지니어링의 실천
 Agent Harness Guide v1.0은 LLM 에이전트 시스템 구축 시 프롬프트 엔지니어링을 실천하는 방법론을 정리한 가이드다. 에이전트 하네스(harness) 개념을 중심으로 실무 엔지니어링 패턴을 소개한다.
 [[clippings/2026-04/Agent-Harness-Guide-v1-0-프롬프트-엔지니어링의-실천]]
+
+
+### 2026-04-16: Threads의 강민구(@adite)님
+AI 에이전트 문서 검색을 RAG에서 온톨로지(RDF 트리플스토어)로 전환해 검색 속도를 2-3초에서 10ms로 약 288배 개선한 실전 사례. 기존 RAG+BM25 파이프라인은 구조적 질문에 한계.
+[[clippings/2026-04/Threads의-강민구-adite-님]]
 
 ## 관련
 
