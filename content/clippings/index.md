@@ -1,7 +1,7 @@
 ---
 title: 클리핑 인덱스
 type: overview
-updated: 2026-04-15
+updated: 2026-04-16
 tags: [clippings, index]
 ---
 
@@ -9,10 +9,11 @@ tags: [clippings, index]
 
 > 텔레그램 클리퍼 봇을 통해 수집된 모든 자료. 작성자 메타데이터 포함.
 
-## 2026-04 (15건)
+## 2026-04 (16건)
 
 | 날짜 | 제목 | 카테고리 | 태그 | 올린이 |
 |------|------|---------|------|--------|
+| 2026-04-16 | [Agent Harness Guide v1.0 - 프롬프트 엔지니어링의 실천](2026-04/Agent-Harness-Guide-v1-0-프롬프트-엔지니어링의-실천) | 기술 | AI-Agents, 프롬프트엔지니어링, LLM, Agent-Harness | web-clipper |
 | 2026-04-15 | [[테스트] Magpie 첫 클립](2026-04/테스트-Magpie-첫-클립) | 기타 | test, magpie | maxseats |
 | 2026-04-15 | [Threads의 AI Coffee Chat(@aicoffeechat)님](2026-04/Threads의-AI-Coffee-Chat-aicoffeechat-님) | 도구 | MCP, AI에이전트, K-skill, 한국서비스, KTX, 카카오톡 | web-clipper |
 | 2026-04-15 | [Threads의 인공지능아카데미 AI Tutor(@koreaaiacademy)님](2026-04/Threads의-인공지능아카데미-AI-Tutor-koreaaiacademy-님) | 도구 | Membase, 제2의뇌, LLM-Wiki, PKM, Obsidian, 지식관리 | web-clipper |
