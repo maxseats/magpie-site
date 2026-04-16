@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-04-16] clip | 영상 by web-clipper | Instagram의 라이프코드님 : 라이프코드 철학
+- wiki: `clippings/2026-04/Instagram의-라이프코드님-라이프코드-철학.md`
+- Notion: https://www.notion.so/3440c76f6ccb810c9778d88eb323d621
+
 ## [2026-04-16] clip | 기술 by web-clipper | Threads의 강민구(@adite)님
 - wiki: `clippings/2026-04/Threads의-강민구-adite-님.md`
 - Notion: https://www.notion.so/3440c76f6ccb81a090a0f96f889cf498
