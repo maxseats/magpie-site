@@ -1,7 +1,7 @@
 ---
 title: Topics 인덱스
 type: overview
-updated: 2026-04-16
+updated: 2026-04-17
 ---
 
 # Topics (컴파일된 지식)
@@ -13,6 +13,7 @@ updated: 2026-04-16
 | Topic | Sources | Updated |
 |-------|---------|---------|
 | [Digital-Garden](Digital-Garden) | 2 | 2026-04-15 |
+| [업무생산성](업무생산성) | 1 | 2026-04-17 |
 
 ## 도구
 
@@ -20,8 +21,8 @@ updated: 2026-04-16
 |-------|---------|---------|
 | [PKM](PKM) | 5 | 2026-04-16 |
 | [AI-Agents](AI-Agents) | 3 | 2026-04-16 |
+| [AI-Tools](AI-Tools) | 2 | 2026-04-17 |
 | [LLM-Wiki](LLM-Wiki) | 2 | 2026-04-15 |
-| [AI-Tools](AI-Tools) | 1 | 2026-04-15 |
 | [MCP](MCP) | 1 | 2026-04-15 |
 
 ## 메모

@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-04-17] clip | 기술 by web-clipper | 신입에게 강추하는 쳇지피티 프롬프트 : 논리적 사고력 함께 높이는 AI 활용법
+- wiki: `clippings/2026-04/신입에게-강추하는-쳇지피티-프롬프트-논리적-사고력-함께-높이는-AI-활용법.md`
+- Notion: https://www.notion.so/AI-3450c76f6ccb815aac7fd8298a136a0b
+
 ## [2026-04-16] clip | 영상 by web-clipper | Instagram의 라이프코드님 : 라이프코드 철학
 - wiki: `clippings/2026-04/Instagram의-라이프코드님-라이프코드-철학.md`
 - Notion: https://www.notion.so/3440c76f6ccb810c9778d88eb323d621
