@@ -9,10 +9,11 @@ tags: [clippings, index]
 
 > 텔레그램 클리퍼 봇을 통해 수집된 모든 자료. 작성자 메타데이터 포함.
 
-## 2026-04 (20건)
+## 2026-04 (21건)
 
 | 날짜 | 제목 | 카테고리 | 태그 | 올린이 |
 |------|------|---------|------|--------|
+| 2026-04-17 | [[clippings/2026-04/Agent-Harness-Guide-v1-0-Jooyeong-Oh\|Agent Harness Guide v1.0 │ Jooyeong Oh]] | 기술 | AI Agent, Harness, 프롬프트 엔지니어링, Context Management, Memory, LLM | maxseats |
 | 2026-04-17 | [[clippings/2026-04/신입에게-강추하는-쳇지피티-프롬프트-논리적-사고력-함께-높이는-AI-활용법\|신입에게 강추하는 쳇지피티 프롬프트 : 논리적 사고력 함께 높이는 AI 활용법]] | 기술 | ChatGPT, 프롬프트, 논리적사고, 신입, 업무능력, 생각구조화 | web-clipper |
 | 2026-04-16 | [[clippings/2026-04/Threads의-유로푸의-반도체취업-semicongram-님\|Threads의 유로푸의 반도체취업(@semicongram)님]] | 메모 | 반도체, 데이터분석, 머신러닝, XGBoost, 취업, 포트폴리오 | web-clipper |
 | 2026-04-16 | [[clippings/2026-04/Threads의-강민구-adite-님\|Threads의 강민구(@adite)님]] | 기술 | RAG, 온톨로지, RDF, AI-에이전트, 문서검색, Knowledge-Graph | web-clipper |
