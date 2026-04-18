@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-04-18] clip | 영상 by maxseats | AI시대, 다시 없을 기회를 잡기 위해 실리콘밸리에 모인 창업가의 24시간ㅣ아메리칸드림2.0
+- wiki: `clippings/2026-04/AI시대-다시-없을-기회를-잡기-위해-실리콘밸리에-모인-창업가의-24시간ㅣ아메리칸드림2-0.md`
+- Notion: https://www.notion.so/AI-24-2-0-3460c76f6ccb811db2eae7de31fb5913
+
 ## [2026-04-17] clip | 기술 by maxseats | Agent Harness Guide v1.0 | Jooyeong Oh
 - wiki: `clippings/2026-04/Agent-Harness-Guide-v1-0-Jooyeong-Oh.md`
 - Notion: https://www.notion.so/Agent-Harness-Guide-v1-0-Jooyeong-Oh-3450c76f6ccb812d8da8e386c5c4c19f
