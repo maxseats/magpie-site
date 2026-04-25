@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-04-25] clip | 기술 by maxseats | 로컬 슈퍼 앱에서 장기 유저 모델링은 어떻게 달라질까
+- wiki: `clippings/2026-04/로컬-슈퍼-앱에서-장기-유저-모델링은-어떻게-달라질까.md`
+- Notion: https://www.notion.so/34d0c76f6ccb81efbecee9556e7e3403
+
 ## [2026-04-18] clip | 영상 by maxseats | AI시대, 다시 없을 기회를 잡기 위해 실리콘밸리에 모인 창업가의 24시간ㅣ아메리칸드림2.0
 - wiki: `clippings/2026-04/AI시대-다시-없을-기회를-잡기-위해-실리콘밸리에-모인-창업가의-24시간ㅣ아메리칸드림2-0.md`
 - Notion: https://www.notion.so/AI-24-2-0-3460c76f6ccb811db2eae7de31fb5913
