@@ -1,7 +1,7 @@
 ---
 title: 클리핑 인덱스
 type: overview
-updated: 2026-04-25
+updated: 2026-04-30
 tags: [clippings, index]
 ---
 
@@ -9,10 +9,11 @@ tags: [clippings, index]
 
 > 텔레그램 클리퍼 봇을 통해 수집된 모든 자료. 작성자 메타데이터 포함.
 
-## 2026-04 (23건)
+## 2026-04 (24건)
 
 | 날짜 | 제목 | 카테고리 | 태그 | 올린이 |
 |------|------|---------|------|--------|
+| 2026-04-30 | [[clippings/2026-04/한국어로-Claude를-쓰면-영어보다-2-59배-비쌉니다\|한국어로 Claude를 쓰면 영어보다 2.59배 비쌉니다]] | 기술 | Claude, 토크나이저, 토큰비용, LLM, 한국어, Anthropic | maxseats |
 | 2026-04-25 | [[clippings/2026-04/로컬-슈퍼-앱에서-장기-유저-모델링은-어떻게-달라질까\|로컬 슈퍼 앱에서 장기 유저 모델링은 어떻게 달라질까]] | 기술 | 유저 모델링, 추천 시스템, 슈퍼앱, 당근마켓, 머신러닝 | maxseats |
 | 2026-04-18 | [[clippings/2026-04/AI시대-다시-없을-기회를-잡기-위해-실리콘밸리에-모인-창업가의-24시간ㅣ아메리칸드림2-0\|AI시대, 다시 없을 기회를 잡기 위해 실리콘밸리에 모인 창업가의 24시간ㅣ아메리칸드림2.]] | 영상 | 실리콘밸리, AI창업, 스타트업, 아메리칸드림 | maxseats |
 | 2026-04-17 | [[clippings/2026-04/Agent-Harness-Guide-v1-0-Jooyeong-Oh\|Agent Harness Guide v1.0 │ Jooyeong Oh]] | 기술 | AI Agent, Harness, 프롬프트 엔지니어링, Context Management, Memory, LLM | maxseats |

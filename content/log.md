@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-04-30] clip | 기술 by maxseats | 한국어로 Claude를 쓰면 영어보다 2.59배 비쌉니다
+- wiki: `clippings/2026-04/한국어로-Claude를-쓰면-영어보다-2-59배-비쌉니다.md`
+- Notion: https://app.notion.com/p/Claude-2-59-3520c76f6ccb81b3a2eec8d54d02cab2
+
 ## [2026-04-25] clip | 기술 by maxseats | 로컬 슈퍼 앱에서 장기 유저 모델링은 어떻게 달라질까
 - wiki: `clippings/2026-04/로컬-슈퍼-앱에서-장기-유저-모델링은-어떻게-달라질까.md`
 - Notion: https://www.notion.so/34d0c76f6ccb81efbecee9556e7e3403
