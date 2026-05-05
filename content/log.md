@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-05-05] clip | 기술 by maxseats | (실무 일지 2) 폐쇄망 LLM 배포 팁
+- wiki: `clippings/2026-05/실무-일지-2-폐쇄망-LLM-배포-팁.md`
+- Notion: https://www.notion.so/2-LLM-3570c76f6ccb81dcafa9c5f7c1edfd3f
+
 ## [2026-04-30] clip | 기술 by maxseats | 한국어로 Claude를 쓰면 영어보다 2.59배 비쌉니다
 - wiki: `clippings/2026-04/한국어로-Claude를-쓰면-영어보다-2-59배-비쌉니다.md`
 - Notion: https://app.notion.com/p/Claude-2-59-3520c76f6ccb81b3a2eec8d54d02cab2
