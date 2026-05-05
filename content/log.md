@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-05-05] clip | 기술 by maxseats | 하네스 엔지니어링으로 본 Deep Insight – 로컬 개발에서 프로덕션 운영까지의 설계 여정
+- wiki: `clippings/2026-05/하네스-엔지니어링으로-본-Deep-Insight-로컬-개발에서-프로덕션-운영까지의-설계-여정.md`
+- Notion: https://www.notion.so/Deep-Insight-3570c76f6ccb819f8783edef753d4388
+
 ## [2026-05-05] clip | 기술 by maxseats | (실무 일지 2) 폐쇄망 LLM 배포 팁
 - wiki: `clippings/2026-05/실무-일지-2-폐쇄망-LLM-배포-팁.md`
 - Notion: https://www.notion.so/2-LLM-3570c76f6ccb81dcafa9c5f7c1edfd3f
