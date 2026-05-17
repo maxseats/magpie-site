@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-05-17] clip | 영상 by ooooo | 1인 게임개발, 이것만은 꼭 알아야 합니다 (10년차 개발자의 경험)
+- wiki: `clippings/2026-05/1인-게임개발-이것만은-꼭-알아야-합니다-10년차-개발자의-경험.md`
+- Notion: https://www.notion.so/1-10-3630c76f6ccb814dab26fbbb74daa635
+
 ## [2026-05-05] clip | 기술 by maxseats | 하네스 엔지니어링으로 본 Deep Insight – 로컬 개발에서 프로덕션 운영까지의 설계 여정
 - wiki: `clippings/2026-05/하네스-엔지니어링으로-본-Deep-Insight-로컬-개발에서-프로덕션-운영까지의-설계-여정.md`
 - Notion: https://www.notion.so/Deep-Insight-3570c76f6ccb819f8783edef753d4388
