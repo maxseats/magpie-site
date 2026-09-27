@@ -9,15 +9,13 @@ tags: [clippings, index]
 
 > 텔레그램 클리퍼 봇을 통해 수집된 모든 자료. 작성자 메타데이터 포함.
 
-## 2026-09 (5건)
+## 2026-09 (3건)
 
 | 날짜 | 제목 | 카테고리 | 태그 | 올린이 |
 |------|------|---------|------|--------|
 | 2026-09-27 | [[clippings/2026-09/https-quartz-jzhao-xyz-features-graph-view\|https://quartz.jzhao.xyz/features/graph-view]] | 도구 | Quartz, Graph View, Digital Garden, 지식 그래프, 정적 사이트 | revive-e2e |
 | 2026-09-27 | [[clippings/2026-09/A-Recipe-for-Training-Neural-Networks\|A Recipe for Training Neural Networks]] | 기술 | 딥러닝, 신경망 학습, 디버깅, 모범사례, Karpathy | maxseats |
-| 2026-09-27 | [[clippings/2026-09/Threads-공유-링크-바이너리-손상-데이터\|Threads 공유 링크 (바이너리/손상 데이터)]] | 기타 | Threads, 링크, 손상데이터 | taeyeon |
 | 2026-09-27 | [[clippings/2026-09/Notion\|Notion]] | 도구 | Notion, AI 워크스페이스, 협업, 에이전트 | taeyeon |
-| 2026-09-27 | [[clippings/2026-09/Threads-게시물-DYotKYHkqTg\|Threads 게시물 (DYotKYHkqTg)]] | 기타 | Threads, 소셜미디어 | taeyeon |
 
 ## 2026-05 (3건)
 
