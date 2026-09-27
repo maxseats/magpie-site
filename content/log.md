@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-09-27] clip | 영상 by web-clipper | 머니비 추천 유튜브
+- wiki: `clippings/2026-09/머니비-추천-유튜브.md`
+- Notion: https://www.notion.so/3e80c76f6ccb8186bc41c809ca5f6e4d
+
 ## [2026-09-27] clip | 도구 by web-clipper | 포켓몬으로 배우는 온톨로지
 - wiki: `clippings/2026-09/포켓몬으로-배우는-온톨로지.md`
 - Notion: https://www.notion.so/3e80c76f6ccb8144a287fc4aba388b9a
