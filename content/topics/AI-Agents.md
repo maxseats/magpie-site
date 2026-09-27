@@ -3,8 +3,8 @@ title: AI-Agents
 type: topic
 category: 도구
 created: 2026-04-15
-updated: 2026-04-16
-sources: 3
+updated: 2026-09-27
+sources: 4
 tags: [AI-Agents]
 ---
 # AI-Agents
@@ -28,6 +28,11 @@ Agent Harness Guide v1.0은 LLM 에이전트 시스템 구축 시 프롬프트 �
 ### 2026-04-16: Threads의 강민구(@adite)님
 AI 에이전트 문서 검색을 RAG에서 온톨로지(RDF 트리플스토어)로 전환해 검색 속도를 2-3초에서 10ms로 약 288배 개선한 실전 사례. 기존 RAG+BM25 파이프라인은 구조적 질문에 한계.
 [[clippings/2026-04/Threads의-강민구-adite-님]]
+
+
+### 2026-09-27: LLM Classification via Logprobs (Threads)
+LLM을 분류/라우팅 작업에 활용하는 기법. 별도 결정 모델 없이 기존 LLM에서 단일 토큰만 생성하고 logprobs로 확률 점수를 읽는 방식.
+[[clippings/2026-09/LLM-Classification-via-Logprobs-Threads]]
 
 ## 관련
 

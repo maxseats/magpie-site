@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-09-27] clip | 기술 by web-clipper | LLM Classification via Logprobs (Threads)
+- wiki: `clippings/2026-09/LLM-Classification-via-Logprobs-Threads.md`
+- Notion: https://app.notion.com/p/https-www-threads-com-share-BAQ8ORYU4r-3e80c76f6ccb8177b360d4a011c4dfbb
+
 ## [2026-09-27] clip | 도구 by taeyeon | Notion
 - wiki: `clippings/2026-09/Notion.md`
 - Notion: https://app.notion.com/p/Notion-3e80c76f6ccb8186bc41c809ca5f6e4d
