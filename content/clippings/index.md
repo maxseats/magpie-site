@@ -13,7 +13,7 @@ tags: [clippings, index]
 
 | 날짜 | 제목 | 카테고리 | 태그 | 올린이 |
 |------|------|---------|------|--------|
-| 2026-09-27 | [[clippings/2026-09/머니비-추천-유튜브\|머니비 추천 유튜브]] | 영상 | 미국주식, 유튜브, 투자, 주식시황, 금융뉴스 | web-clipper |
+| 2026-09-27 | [[clippings/2026-09/머니비-추천-유튜브\|머니비 추천 유튜브]] | 영상 | 미국주식, 유튜브, 투자, 주식시황, 금융뉴스 | taeyeon |
 | 2026-09-27 | [[clippings/2026-09/LLM-Classification-via-Logprobs-Threads\|LLM Classification via Logprobs (Threads)]] | 기술 | logprobs, classification, routing, LLM, inference | taeyeon |
 | 2026-09-27 | [[clippings/2026-09/포켓몬으로-배우는-온톨로지\|포켓몬으로 배우는 온톨로지]] | 도구 | 온톨로지, SPARQL, Knowledge Graph, 포켓몬, 교육 | taeyeon |
 | 2026-09-27 | [[clippings/2026-09/https-quartz-jzhao-xyz-features-graph-view\|https://quartz.jzhao.xyz/features/graph-view]] | 도구 | Quartz, Graph View, Digital Garden, 지식 그래프, 정적 사이트 | revive-e2e |
