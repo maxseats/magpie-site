@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-09-27] clip | 기술 by maxseats | A Recipe for Training Neural Networks
+- wiki: `clippings/2026-09/A-Recipe-for-Training-Neural-Networks.md`
+- Notion: https://app.notion.com/p/A-Recipe-for-Training-Neural-Networks-3e80c76f6ccb81be961df5c0fe64d421
+
 ## [2026-09-27] clip | 도구 by revive-e2e | https://quartz.jzhao.xyz/features/graph-view
 - wiki: `clippings/2026-09/https-quartz-jzhao-xyz-features-graph-view.md`
 - Notion: https://app.notion.com/p/https-quartz-jzhao-xyz-features-graph-view-3e80c76f6ccb8161b98bcb79dd276ec7
