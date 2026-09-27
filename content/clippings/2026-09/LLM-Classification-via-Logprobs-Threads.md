@@ -4,7 +4,7 @@ type: clipping
 category: 기술
 tags: [logprobs, classification, routing, LLM, inference]
 clipped: 2026-09-27T13:18:20.344958
-clipped_by: "web-clipper"
+clipped_by: "taeyeon"
 clip_type: URL
 url: https://www.threads.com/share/BAQ8ORYU4r/
 notion_page_id: 3e80c76f-6ccb-8177-b360-d4a011c4dfbb
