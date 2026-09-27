@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-09-27] clip | 기타 by taeyeon | Threads 공유 링크 (바이너리/손상 데이터)
+- wiki: `clippings/2026-09/Threads-공유-링크-바이너리-손상-데이터.md`
+- Notion: https://app.notion.com/p/Threads-3e80c76f6ccb81299ea5d5efd938b3ca
+
 ## [2026-09-27] clip | 기술 by maxseats | A Recipe for Training Neural Networks
 - wiki: `clippings/2026-09/A-Recipe-for-Training-Neural-Networks.md`
 - Notion: https://app.notion.com/p/A-Recipe-for-Training-Neural-Networks-3e80c76f6ccb81be961df5c0fe64d421
