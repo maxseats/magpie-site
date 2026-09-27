@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-09-27] clip | 도구 by revive-e2e | https://quartz.jzhao.xyz/features/graph-view
+- wiki: `clippings/2026-09/https-quartz-jzhao-xyz-features-graph-view.md`
+- Notion: https://app.notion.com/p/https-quartz-jzhao-xyz-features-graph-view-3e80c76f6ccb8161b98bcb79dd276ec7
+
 ## [2026-05-17] clip | 영상 by ooooo | 1인 게임개발, 이것만은 꼭 알아야 합니다 (10년차 개발자의 경험)
 - wiki: `clippings/2026-05/1인-게임개발-이것만은-꼭-알아야-합니다-10년차-개발자의-경험.md`
 - Notion: https://www.notion.so/1-10-3630c76f6ccb814dab26fbbb74daa635
