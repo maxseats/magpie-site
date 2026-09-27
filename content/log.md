@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-09-27] clip | 도구 by web-clipper | 포켓몬으로 배우는 온톨로지
+- wiki: `clippings/2026-09/포켓몬으로-배우는-온톨로지.md`
+- Notion: https://www.notion.so/3e80c76f6ccb8144a287fc4aba388b9a
+
 ## [2026-09-27] clip | 기술 by web-clipper | LLM Classification via Logprobs (Threads)
 - wiki: `clippings/2026-09/LLM-Classification-via-Logprobs-Threads.md`
 - Notion: https://app.notion.com/p/https-www-threads-com-share-BAQ8ORYU4r-3e80c76f6ccb8177b360d4a011c4dfbb

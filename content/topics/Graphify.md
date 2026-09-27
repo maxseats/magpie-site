@@ -3,8 +3,8 @@ title: Graphify
 type: topic
 category: 영상
 created: 2026-04-15
-updated: 2026-04-16
-sources: 2
+updated: 2026-09-27
+sources: 3
 tags: [Graphify]
 ---
 # Graphify
@@ -23,6 +23,11 @@ LLM Wiki를 그래프 기반 구조인 Graphify로 업그레이드하는 방법�
 ### 2026-04-16: Threads의 강민구(@adite)님
 AI 에이전트 문서 검색을 RAG에서 온톨로지(RDF 트리플스토어)로 전환해 검색 속도를 2-3초에서 10ms로 약 288배 개선한 실전 사례. 기존 RAG+BM25 파이프라인은 구조적 질문에 한계.
 [[clippings/2026-04/Threads의-강민구-adite-님]]
+
+
+### 2026-09-27: 포켓몬으로 배우는 온톨로지
+포켓몬 진화 체인을 온톨로지의 실제 사례로 활용한 인터랙티브 학습 서비스. 포켓몬 1,025마리의 진화 관계를 클래스·트리플·SPARQL·추론 등 핵심 개념과 연결하여 총 14챕터, 실습 57개로 구성되었다.
+[[clippings/2026-09/포켓몬으로-배우는-온톨로지]]
 
 ## 관련
 
