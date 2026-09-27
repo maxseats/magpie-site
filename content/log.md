@@ -5,6 +5,10 @@ updated: 2026-04-16
 ---
 
 # 작업 로그
+## [2026-09-27] clip | 도구 by taeyeon | Notion
+- wiki: `clippings/2026-09/Notion.md`
+- Notion: https://app.notion.com/p/Notion-3e80c76f6ccb8186bc41c809ca5f6e4d
+
 ## [2026-09-27] clip | 기타 by taeyeon | Threads 게시물 (DYotKYHkqTg)
 - wiki: `clippings/2026-09/Threads-게시물-DYotKYHkqTg.md`
 - Notion: https://app.notion.com/p/Threads-DYotKYHkqTg-3e80c76f6ccb81088b4cf75735f0ba13
